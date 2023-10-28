@@ -20,3 +20,5 @@ In the process of building visualizations, the cleaned dataset was analyzed to e
 ## Conclusion
 
 In conclusion, the exploratory data analysis provided valuable insights into the dataset, shedding light on important trends and patterns. Through thorough data cleaning and visualization, this project has contributed to a deeper understanding of the variables and their interrelationships. The findings from this analysis can be instrumental in guiding business strategies, optimizing processes, and making informed decisions. However, it is essential to acknowledge the limitations of the analysis, such as data constraints or assumptions made during the exploration. The identified insights pave the way for further exploration and analysis, opening opportunities for more in-depth research and data-driven decision-making in the future.
+
+![Total Distance and Total Amount TLC 2017](Total%20Distance%20and%20Total%20Amount%20TLC%202017.png)
